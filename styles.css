@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+     
+}
+
+.ext-link, .home-link {
+    padding: 5px;
+    border: 2px solid lightgray;
+    display: inline-block;
+    margin: 10px;
+}
+
+
+li, p {
+   padding-right: 200px; 
+}
+
+.home-title {
+    text-align: center;
+}
+
+.navigation {
+    text-align: center;
+}
+
+.navigation li {
+    display: inline-block;
+    width: 200px;
+    height: 60px;
+    margin: 20px;
+    padding: 15px;
+    background-color: black;
+    border: 2px solid white
+}
+
+
+
